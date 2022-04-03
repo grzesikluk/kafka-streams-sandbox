@@ -19,3 +19,4 @@ Happy learning!
  - Favourite Colour for a more advanced example (`Scala` version included)
  - Bank Balance to demonstrate exactly once semantics
  - User Event matcher to learn about joins between `KStream` and `GlobalKTable`.
+# kafka-streams-sandbox
